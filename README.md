@@ -27,14 +27,6 @@ https://stairlanggapw.github.io/Crocodic-1/
 
 ---
 
-## 📸 Preview
-
-![Preview](./preview.png)
-
-> Add your screenshot image named `preview.png` into the project folder.
-
----
-
 ## 📂 Project Structure
 
 ```bash
