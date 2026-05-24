@@ -33,10 +33,7 @@ https://stairlanggapw.github.io/Crocodic-1/
 Crocodic-1/
 │
 ├── index.html
-├── style.css
-├── script.js
-├── assets/
-└── README.md
+└── assets
 ```
 
 ---
