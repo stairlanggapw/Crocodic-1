@@ -24,7 +24,6 @@ https://stairlanggapw.github.io/Crocodic-1/
 
 * HTML5
 * CSS3
-* JavaScript
 
 ---
 
